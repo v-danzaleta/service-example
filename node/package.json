@@ -7,6 +7,7 @@
     "@types/node": "12.x",
     "@vtex/api": "6.46.1",
     "@vtex/tsconfig": "^0.5.6",
+    "coachmx.service-example": "https://danz--coachmx.myvtex.com/_v/private/typings/linked/v1/coachmx.service-example@0.0.1+build1713287289/public/_types/react",
     "typescript": "3.9.7"
   },
   "scripts": {
