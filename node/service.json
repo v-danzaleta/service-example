@@ -7,7 +7,7 @@
   "workers": 4,
   "events": {
     "example": {
-      "sender": "vtex.events-example",
+      "sender": "coachmx.service-example",
       "keys": ["send-event"]
     }
   },
