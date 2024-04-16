@@ -1,7 +1,7 @@
 {
   "name": "service-example",
   "vendor": "coachmx",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Events Example",
   "description": "Reference app for VTEX IO Services",
   "dependencies": {},
